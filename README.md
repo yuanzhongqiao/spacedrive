@@ -1,39 +1,58 @@
 <p align="center">
-  <a href="#">
-
-  </a>
   <p align="center">
    <img width="150" height="150" src="packages/assets/images/AppLogo.png" alt="Logo">
   </p>
-  <h1 align="center"><b>Spacedrive</b></h1>
-  <p align="center">
-  A file explorer from the future.
+	<h1 align="center"><b>Spacedrive</b></h1>
+	<p align="center">
+		A file explorer from the future.
     <br />
     <a href="https://spacedrive.com"><strong>spacedrive.com »</strong></a>
     <br />
     <br />
     <b>Download for </b>
-    macOS
-    ·
-    Windows
-    ·
-    Linux
-    ·
-    iOS
-    ·
-    watchOS
-    ·
-    Android
+    macOS (<a href="https://www.spacedrive.com/api/releases/desktop/stable/darwin/aarch64">Apple Silicon</a> |
+    <a href="https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64">Intel</a>) ·
+		<a href="https://www.spacedrive.com/api/releases/desktop/stable/windows/x86_64">Windows</a> ·
+		<a href="https://www.spacedrive.com/api/releases/desktop/stable/linux/x86_64">Linux</a> ·
+		iOS ·
+		Android
     <br />
-    <i>~ Links will be added once a release is available. ~</i>
+    <i>~ Links for iOS & Android will be added once a release is available. ~</i>
   </p>
 </p>
+
 Spacedrive is an open source cross-platform file manager, powered by a virtual distributed filesystem (<a href="#what-is-a-vdfs">VDFS</a>) written in Rust.
 <br/>
 <br/>
 
+> UPDATE: Spacedrive is under active development, we are in the alpha stage and some features might be missing or disabled in the official release downloads.
 
-<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+Organize files across many devices in one place. From cloud services to offline hard drives, Spacedrive combines the storage capacity and processing power of your devices into one personal distributed cloud, that is both secure and intuitive to use.
+
+For independent creatives, hoarders and those that want to own their digital footprint, Spacedrive provides a free file management experience like no other.
+
+<p align="center">
+  <img src="apps/landing/public/github.webp" alt="App screenshot">
+  <br />
+  <br />
+  <a href="https://discord.gg/gTaF2Z44f5">
+    <img src="https://img.shields.io/discord/949090953497567312?label=Discord&color=5865F2" />
+  </a>
+  <a href="https://x.com/spacedriveapp">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/spacedriveapp">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.gnu.org/licenses/agpl-3.0">
+    <img src="https://img.shields.io/static/v1?label=Licence&message=AGPL%20v3&color=000" />
+  </a>
+  <img src="https://img.shields.io/static/v1?label=Bundled%20Size&message=16.3MB&color=0974B4" />
+  <img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
+  <br />
+</p>
+
+ <div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
   </p><p align="center" dir="auto">
    <a target="_blank" rel="noopener noreferrer" href="/spacedriveapp/spacedrive/blob/main/packages/assets/images/AppLogo.png"><img width="150" height="150" src="/spacedriveapp/spacedrive/raw/main/packages/assets/images/AppLogo.png" alt="标识" style="max-width: 100%;"></a>
   </p>
